@@ -188,7 +188,7 @@
       "optimizeServerReact": true,
       "viewTransition": false,
       "removeUncaughtErrorAndRejectionListeners": false,
-      "validateRSCRequestHeaders": false,
+      "validateRSCRequestHeaders": true,
       "staleTimes": {
         "dynamic": 0,
         "static": 300
